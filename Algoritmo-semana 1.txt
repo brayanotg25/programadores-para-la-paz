@@ -1,0 +1,13 @@
+Algoritmo : verificar noticia
+
+paso 1 : leer la noticia completa, no solo el titulo.
+
+paso 2 : revisar la fuente de donde salió o proviene la información. 
+
+paso 3 : confirmar la noticia en otras paginas mas confiables. 
+
+paso 4 : verificar la fecha de la publicación. 
+
+paso 5 : analizar si la información tiene pruebas y datos reales o algo que confirmé la noticia. 
+
+paso 6 : decidir si es confiable antes de compartirla. 
