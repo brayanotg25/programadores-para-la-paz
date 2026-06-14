@@ -1,0 +1,10 @@
+Las comunidades y las iniciativas ciudadanas pueden beneficiarse de crear sus propias herramientas tecnológicas.
+El uso de tecnologías abiertas como Node.js facilita el acceso al desarrollo de software.
+Estas tecnologías permiten adaptar las soluciones a las necesidades reales de cada comunidad.
+Además, fomentan la independencia tecnológica y reducen la dependencia de proveedores externos.
+El código abierto promueve la colaboración y el intercambio de conocimientos.
+Las personas pueden aprender, modificar y mejorar las aplicaciones de manera continua.
+Esto fortalece las capacidades técnicas y la participación ciudadana.
+También contribuye a la transparencia y al desarrollo de proyectos sostenibles.
+La innovación surge desde las propias comunidades para resolver problemas locales.
+Por ello, las tecnologías abiertas son una herramienta clave para el empoderamiento social y digital.
