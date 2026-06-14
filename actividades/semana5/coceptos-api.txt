@@ -1,0 +1,3 @@
+la ruta sirve para recibir la imformacion y guardarla o enviala,cuando se envia un reporte el servidor lo recibe 
+en una aplicacion comunitaria podria servir para reportar prblemas de conexion ,dar avios de algun problema en 
+alguna comunidadad o enviar quejas . imformar a los dema de cosas que pasen .
