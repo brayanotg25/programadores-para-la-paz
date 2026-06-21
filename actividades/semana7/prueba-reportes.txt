@@ -1,0 +1,3 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados.
+ En este caso, se muestra un arreglo con los datos del reporte enviado previamente, 
+incluyendo el id, el tipo y la descripción de la incidencia.
