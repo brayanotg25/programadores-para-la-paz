@@ -1,0 +1,5 @@
+1.autenticacion segura de usuarios 
+2.control de acceso basado en usuarios 
+3.proteccion de datos personales 
+4.proteger credenciales
+5.usar una conexion segura
