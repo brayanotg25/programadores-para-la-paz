@@ -1,0 +1,3 @@
+La plataforma tendrá un formulario para crear una causa, donde el usuario podrá escribir el título y la descripción. 
+También habrá un botón para apoyar una causa. Cada causa mostrará un contador de apoyos para saber cuántas personas la respaldan.
+ Además, se mostrará una lista de causas disponibles para que los usuarios puedan consultarlas y participar fácilmente
