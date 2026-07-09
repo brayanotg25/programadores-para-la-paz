@@ -1,0 +1,5 @@
+1 como ciudadano quiero reportar problemas de mi comunidad (daños en vias, alumbrado,inseguridad etc) para que las autoridades conoscan las necesidades y puedan actuar rapidamente
+2 como veedor ciudadano quiero dar seguimienti al estado de los reportes realizados para verificar que las entidades responsables esten atendiendo las solicitudes 
+3 como lider comunitario quiero recibibir notificaciones sobre nuevos reports y avances de los casos para mantener imformada a la comunidad 
+4 como ciudadano quiero consultar un historial de reportes y acciones realizadas para conocer que problemas han sido resueltos y cuales siguen pendientes 
+5  como administrador del sistema quiero generar estadisticas e informes sobre los reportes recibidos para identificar los problemas maa frecuentes y apoyar la toma de desiciones 

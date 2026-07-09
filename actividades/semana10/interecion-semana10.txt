@@ -1,0 +1,12 @@
+Qué 2 tareas del backlog harías primero?
+Implementar la función para que los ciudadanos puedan crear un reporte.
+Permitir que el equipo consulte los reportes para hacer seguimiento.
+
+¿Por qué son las más importantes?
+Porque primero se necesita que existan los reportes. Después, el equipo podrá revisarlos y darles seguimiento. Sin reportes, las demás funciones no tienen utilidad.
+
+¿Qué significa que una tarea esté "terminada"?
+Una tarea está terminada cuando:
+Funciona correctamente.
+Fue probada y no presenta errores.
+Quedó registrada en Git con su respectivo commit.
