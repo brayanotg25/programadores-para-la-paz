@@ -1,0 +1,5 @@
+Evento: Se registra una nueva causa en la plataforma.
+
+Mensaje: "Se ha creado una nueva causa. Revísala y apóyala si estás de acuerdo."
+
+Información que no debe enviarse por seguridad: Cédulas, números de teléfono, direcciones, correos electrónicos, contraseñas y cualquier otro dato personal de los usuarios.

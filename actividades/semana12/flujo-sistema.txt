@@ -1,0 +1,6 @@
+1. Un ciudadano crea una causa.
+2. El sistema guarda la causa en la base de datos.
+3. Otros ciudadanos ven la causa.
+4. Los ciudadanos apoyan la causa.
+5. El sistema cuenta los apoyos.
+6. Se genera un PDF con la petición para presentarla.
